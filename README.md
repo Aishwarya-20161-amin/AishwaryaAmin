@@ -57,7 +57,7 @@ Here are some achievements I'm proud of from my learning and community journey:
 
 ### 📫 How to Reach Me
 - 💼 LinkedIn: www.linkedin.com/in/aishwarya-amin-162b15285
-- 🌐 Portfolio: [yourportfolio.com] *(optional)*
+- 🌐 Portfolio: https://www.notion.so/Aishwarya-Amin-s-Portfolio-Page-1d9644b19e8a80af8ee3fc5fdb1ffbd9
 
 ---
 
